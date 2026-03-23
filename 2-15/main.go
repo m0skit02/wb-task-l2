@@ -276,3 +276,5 @@ func splitRedir(args []string) ([]string, string, string) {
 
 	return out, inFile, outFile
 }
+
+//
